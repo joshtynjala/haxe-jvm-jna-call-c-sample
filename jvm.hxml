@@ -1,0 +1,4 @@
+--jvm bin/app.jar
+--java-lib jna-5.16.0.jar
+-cp src
+--main Main
